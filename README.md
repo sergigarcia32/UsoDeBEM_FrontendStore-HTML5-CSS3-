@@ -26,5 +26,5 @@ Bienvenido al proyecto **UsoDeBEM_FrontendStore** de **Sergi García Jiménez**.
     ```
 2. **Navega al directorio del proyecto**:
     ```bash
-    cd usoDeBem_FrontendStore
+    cd UsoDeBEM_FrontendStore-HTML5-CSS3-
     ```
