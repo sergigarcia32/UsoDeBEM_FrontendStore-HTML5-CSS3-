@@ -18,6 +18,11 @@ Bienvenido al proyecto **UsoDeBEM_FrontendStore** de **Sergi García Jiménez**.
 - **CSS3**: Estilización del sitio web, incluyendo flexbox, grid layout, y técnicas de diseño responsivo.
 - **BEM**: Metodología para la organización del CSS.
 
+## 📈 Crea una carpeta img
+
+Crea una carpeta img dentro de la raíz del proyecto y pon las imagenes de la siguiente url:
+https://drive.google.com/drive/folders/11ly-CxdU6_1qvRsGDh7fYyIVP6YyZB6N?usp=drive_link
+
 ## 📈 Cómo Ejecutar el Proyecto
 
 1. **Clona el repositorio**:
