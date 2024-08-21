@@ -20,7 +20,7 @@ Bienvenido al proyecto **UsoDeBEM_FrontendStore** de **Sergi García Jiménez**.
 
 ## 📈 Crea una carpeta img
 
-Crea una carpeta img dentro de la raíz del proyecto y pon las imagenes de la siguiente url:
+Crea una carpeta img dentro de la raíz del proyecto y pon las imágenes de la siguiente url:
 https://drive.google.com/drive/folders/11ly-CxdU6_1qvRsGDh7fYyIVP6YyZB6N?usp=drive_link
 
 ## 📈 Cómo Ejecutar el Proyecto
